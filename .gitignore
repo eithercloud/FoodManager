@@ -1,0 +1,9 @@
+dishtrack-58422-firebase-adminsdk-fbsvc-55fb6d08bb.json
+__pycache__/
+dist/
+build/
+tickets/
+exportaciones/
+imagenes_platillos/
+.vscode/
+*.spec
